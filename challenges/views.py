@@ -18,7 +18,7 @@ monthly_challenges= {
     "september":"help random stranger",
     "october":"learn to fly",
     "november":"climb mount everst",
-    "december":"Learn Django",
+    "december": None,
 }
 
 def index(request):
